@@ -13,7 +13,7 @@ trading-repo/
 ├─ .gitignore
 ├─ LICENSE
 ├─ src/
-│  ├─ main.p
+│  ├─ main.py
 │  ├─ data.py
 │  ├─ strategy.py
 │  ├─ backtester.py
