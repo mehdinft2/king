@@ -24,7 +24,7 @@ trading-repo/
 
 ---
 
-## 🚀 Quickstart
+### 🚀 Quickstart
 
 ```bash
 # 1) Create venv (optional but recommended)
@@ -40,7 +40,7 @@ python src/main.py --ticker AAPL --start 2018-01-01 --end 2025-08-01 \
 
 ---
 
-## 📦 requirements.txt
+### 📦 requirements.txt
 
 ```txt
 pandas>=2.0
