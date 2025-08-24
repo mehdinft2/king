@@ -375,7 +375,7 @@ python src/main.py --ticker MSFT --start 2015-01-01 --end 2025-08-01 \
 
 ---
 
-## 🔧 Next Ideas (easy enhancements) ok
+## 🔧 Next Ideas (easy enhancements)
 
 * Add **walk-forward optimization** for SMA windows.
 * Add **position shorting** and **stop-loss / take-profit** orders.
