@@ -98,7 +98,7 @@ SOFTWARE.
 
 ---
 
-## 🧱 src/data.py
+### 🧱 src/data.py
 
 ```python
 from __future__ import annotations
