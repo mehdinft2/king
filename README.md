@@ -4,7 +4,7 @@ A clean, MIT-licensed starter repo for algorithmic **trading/backtesting** in Py
 
 ---
 
-### 📁 Structure
+#### 📁 Structure
 
 ```
 trading-repo////
